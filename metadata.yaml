@@ -1,0 +1,43 @@
+_repo: Stories-of-the-Days-of-King-Arthur_44426
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Doré, Gustave
+    aliases:
+    - Dore, Gustave
+    - Doré, Louis Christophe Paul Gustave
+    - Dorè, Gustave
+    - Doré, Louis Auguste Gustave
+    birthdate: 1832
+    deathdate: 1883
+    gutenberg_agent_id: '1896'
+    url: http://www.gutenberg.org/2009/agents/1896
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Doré
+covers:
+- cover_type: archival
+  image_path: 44426-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hanson, Charles Henry
+    gutenberg_agent_id: '42749'
+    url: http://www.gutenberg.org/2009/agents/42749
+description: ''
+gutenberg_issued: '2013-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44426'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chivalry -- Juvenile fiction'
+- !lcsh 'Kings and rulers -- Juvenile fiction'
+- !lcsh 'Arthurian romances -- Juvenile literature'
+- !lcsh 'Knights and knighthood -- Juvenile fiction'
+- !lcsh 'Arthur, King -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- !lcsh 'Children''s literature'
+title: Stories of the Days of King Arthur
+url: http://www.gutenberg.org/ebooks/44426
